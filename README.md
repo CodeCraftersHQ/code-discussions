@@ -1,2 +1,2 @@
 # code-discussions
-Source repository for all Discussions relating to code and code issues.
+Source repository for all Discussions by CodeCrafters relating to code and code issues.
